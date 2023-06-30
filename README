@@ -1,0 +1,3 @@
+For this challenge i created a python script to analyze the data and evalute the poll results in pypoll and analyze the data in pybank.
+For this challenge i utilized the program jupyter notebook with its easy to interpret interface and overall ease of use.
+I have provided the scripts in the respected pybank and pypoll folders under main.py, and the csv files i used in the folder named resources. The solutions are in the folders named analysis.
